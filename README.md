@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hola, I'm Myrian Ayala  
 
 ☕ A curious explorer and **Cybersecurity Professional** passionate about breaking things (ethically), protecting data, and helping others grow in tech.  
