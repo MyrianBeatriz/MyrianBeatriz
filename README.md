@@ -28,16 +28,6 @@
 
 ---
 
-### 🏆 GitHub Trophy  
-[![trophy](https://github-profile-trophy.vercel.app/?username=myrianayala&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🐍 Snake Animation  
-![Snake animation](https://github.com/myrianayala/myrianayala/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 Connect with Me  
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://myrianayala.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myrian-ayala)  
