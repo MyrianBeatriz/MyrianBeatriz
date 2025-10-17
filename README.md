@@ -1,9 +1,4 @@
-# 👋 Hola, I'm Myrian Ayala  
-
-☕ A curious explorer and **Cybersecurity Professional** passionate about breaking things (ethically), protecting data, and helping others grow in tech.  
-🌎 Born in Paraguay • Based in New York City  
-💻 Currently working at **LevelBlue (formerly Aon Stroz Friedberg)** as a **Cybersecurity Associate (Consultant Track)**  
-🎓 B.S. in Computer Science — **Trinity College** (‘25)  
+# 👋 Hola, I'm Myrian Ayala   
 ---
 ### 🧠 What I’m Into  
 - 🕵️‍♀️ Offensive Security & Web Application Testing (learning)
