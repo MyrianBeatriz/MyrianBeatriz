@@ -20,17 +20,8 @@
 
 ---
 
-### 🌐 Connect with Me  
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://myrianayala.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myrian-ayala)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com)  
-
----
-
 ### ☁️ A Little More About Me  
 > *I believe in curiosity as a lifelong skill, in seeing life through a lens of pronoia — the belief that the universe is conspiring in our favor — and in building bridges between technology, empathy, and opportunity.*
 
 ---
 
-🦥 Built with coffee, curiosity, and a bit of code.
