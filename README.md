@@ -1,11 +1,9 @@
 # 👋 Hola, I'm Myrian Ayala!   
 ---
 ### 🧠 What I’m Into  
-- 🕵️‍♀️ Offensive Security & Web Application Testing (learning)
-- 🧩 Active Directory & Internal Pentesting (learning)
-- 🌱 Privacy, Data Protection & Higher Education Security (learning)
-- 💸 Financial literacy, productivity, and personal growth  
-- 🦥 Writing, traveling, and documenting the journey  
+- 🕵️‍♀️ Offensive Security & Web Application Testing 
+- 🧩 Active Directory & Internal Pentesting 
+- 🌱 Privacy, Data Protection & Higher Education Security
 ---
 ### ⚙️ Tech Stack & Tools  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
