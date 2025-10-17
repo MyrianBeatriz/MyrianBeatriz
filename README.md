@@ -22,12 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Myrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myrianayala&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myrianayala&layout=compact&theme=radical)
-
----
-
 ### 🌐 Connect with Me  
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://myrianayala.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myrian-ayala)  
