@@ -24,4 +24,8 @@
 > *I believe in curiosity as a lifelong skill, in seeing life through a lens of pronoia — the belief that the universe is conspiring in our favor — and in building bridges between technology, empathy, and opportunity.*
 
 ---
+### Badgets collected:
+
+[![Hacktoberfest 2025 Badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmgvjohw2000li604f20xtwoj)](https://www.holopin.io/@myrianayala)
+
 
