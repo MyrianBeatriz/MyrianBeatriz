@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
 ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=Visual-Studio-Code)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)
 
 ---
 
