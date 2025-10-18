@@ -2,8 +2,8 @@
 ---
 ### 🧠 What I’m Into  
 - 🕵️‍♀️ Offensive Security & Web Application Testing
-- Getting my footing in AD testing - good stuff!
-- Coding for fun!
+- 🧩 Getting my footing in AD testing - good stuff!
+- 💻 Coding for fun!
 ---
 ### ⚙️ Tech Stack & Tools  
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
