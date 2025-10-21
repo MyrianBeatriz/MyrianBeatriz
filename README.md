@@ -1,7 +1,7 @@
 # 👋 Hola, I'm Myrian Ayala!   
 ---
 ### 🧠 What I’m Into  
-- 🕵️‍♀️ Offensive Security & Web Application Testing
+- 🕵️‍♀️ Offensive Security: Web Application Testing
 - 🧩 Getting my footing in AD testing - good stuff!
 - 💻 Coding for fun!
 ---
